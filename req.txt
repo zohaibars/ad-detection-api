@@ -1,0 +1,12 @@
+scipy
+pyannote.audio 
+moviepy
+numpy
+speechbrain==0.5.16
+pydub
+fastapi[all]
+csv
+ffmpeg
+python-cv
+datetime
+pandas
